@@ -26,3 +26,7 @@ BOARD_SEPOLICY_DIRS += device/google/gs201-sepolicy/health
 
 # Face HAL service
 BOARD_VENDOR_SEPOLICY_DIRS += device/google/gs201-sepolicy/face
+
+# Flipendo
+BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/flipendo
+
